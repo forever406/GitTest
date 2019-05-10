@@ -6,7 +6,7 @@ Git是团队协作很重要的一个工具，可以提供版本管理，协同�
 
 训练训练Git的用法，熟悉Git的指令
 
-clone、merge、branch、commit、push、pull、checkout等等等等
+clone、merge、branch、commit、push、pull、checkout、rebase等等等等
 
 ## Goal
 
